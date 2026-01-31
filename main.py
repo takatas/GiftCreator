@@ -1,6 +1,6 @@
 import GifCreat
 import ImageProccess
 
-# GifCreat.createGif()
+GifCreat.createGif()
 ImageProccess.openImage()
 ImageProccess.rotateImage()
